@@ -1,5 +1,5 @@
 import Hero from "./Hero";
-import ContentSection from '@/components/ContentSection';
+import ContentSection from './ContentSection';
 
 export default function App() {
   return (
